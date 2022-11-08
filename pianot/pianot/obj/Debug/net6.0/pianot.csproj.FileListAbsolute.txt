@@ -1,0 +1,15 @@
+C:\Users\timur\source\repos\pianot\pianot\bin\Debug\net6.0\pianot.exe
+C:\Users\timur\source\repos\pianot\pianot\bin\Debug\net6.0\pianot.deps.json
+C:\Users\timur\source\repos\pianot\pianot\bin\Debug\net6.0\pianot.runtimeconfig.json
+C:\Users\timur\source\repos\pianot\pianot\bin\Debug\net6.0\pianot.dll
+C:\Users\timur\source\repos\pianot\pianot\bin\Debug\net6.0\pianot.pdb
+C:\Users\timur\source\repos\pianot\pianot\obj\Debug\net6.0\pianot.csproj.AssemblyReference.cache
+C:\Users\timur\source\repos\pianot\pianot\obj\Debug\net6.0\pianot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timur\source\repos\pianot\pianot\obj\Debug\net6.0\pianot.AssemblyInfoInputs.cache
+C:\Users\timur\source\repos\pianot\pianot\obj\Debug\net6.0\pianot.AssemblyInfo.cs
+C:\Users\timur\source\repos\pianot\pianot\obj\Debug\net6.0\pianot.csproj.CoreCompileInputs.cache
+C:\Users\timur\source\repos\pianot\pianot\obj\Debug\net6.0\pianot.dll
+C:\Users\timur\source\repos\pianot\pianot\obj\Debug\net6.0\refint\pianot.dll
+C:\Users\timur\source\repos\pianot\pianot\obj\Debug\net6.0\pianot.pdb
+C:\Users\timur\source\repos\pianot\pianot\obj\Debug\net6.0\pianot.genruntimeconfig.cache
+C:\Users\timur\source\repos\pianot\pianot\obj\Debug\net6.0\ref\pianot.dll
