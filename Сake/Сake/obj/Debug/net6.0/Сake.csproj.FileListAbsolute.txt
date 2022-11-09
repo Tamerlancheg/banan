@@ -1,0 +1,15 @@
+C:\Королевские угодья\УЙДИ\Сдать c#\Сake\Сake\obj\Debug\net6.0\Сake.csproj.AssemblyReference.cache
+C:\Королевские угодья\УЙДИ\Сдать c#\Сake\Сake\obj\Debug\net6.0\Сake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Королевские угодья\УЙДИ\Сдать c#\Сake\Сake\obj\Debug\net6.0\Сake.AssemblyInfoInputs.cache
+C:\Королевские угодья\УЙДИ\Сдать c#\Сake\Сake\obj\Debug\net6.0\Сake.AssemblyInfo.cs
+C:\Королевские угодья\УЙДИ\Сдать c#\Сake\Сake\obj\Debug\net6.0\Сake.csproj.CoreCompileInputs.cache
+C:\Королевские угодья\УЙДИ\Сдать c#\Сake\Сake\bin\Debug\net6.0\Сake.exe
+C:\Королевские угодья\УЙДИ\Сдать c#\Сake\Сake\bin\Debug\net6.0\Сake.deps.json
+C:\Королевские угодья\УЙДИ\Сдать c#\Сake\Сake\bin\Debug\net6.0\Сake.runtimeconfig.json
+C:\Королевские угодья\УЙДИ\Сдать c#\Сake\Сake\bin\Debug\net6.0\Сake.dll
+C:\Королевские угодья\УЙДИ\Сдать c#\Сake\Сake\bin\Debug\net6.0\Сake.pdb
+C:\Королевские угодья\УЙДИ\Сдать c#\Сake\Сake\obj\Debug\net6.0\Сake.dll
+C:\Королевские угодья\УЙДИ\Сдать c#\Сake\Сake\obj\Debug\net6.0\refint\Сake.dll
+C:\Королевские угодья\УЙДИ\Сдать c#\Сake\Сake\obj\Debug\net6.0\Сake.pdb
+C:\Королевские угодья\УЙДИ\Сдать c#\Сake\Сake\obj\Debug\net6.0\Сake.genruntimeconfig.cache
+C:\Королевские угодья\УЙДИ\Сдать c#\Сake\Сake\obj\Debug\net6.0\ref\Сake.dll
