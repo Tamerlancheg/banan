@@ -1,0 +1,15 @@
+C:\Королевские угодья\УЙДИ\Сдать c#\DICT\DICT\bin\Debug\net6.0\DICT.exe
+C:\Королевские угодья\УЙДИ\Сдать c#\DICT\DICT\bin\Debug\net6.0\DICT.deps.json
+C:\Королевские угодья\УЙДИ\Сдать c#\DICT\DICT\bin\Debug\net6.0\DICT.runtimeconfig.json
+C:\Королевские угодья\УЙДИ\Сдать c#\DICT\DICT\bin\Debug\net6.0\DICT.dll
+C:\Королевские угодья\УЙДИ\Сдать c#\DICT\DICT\bin\Debug\net6.0\DICT.pdb
+C:\Королевские угодья\УЙДИ\Сдать c#\DICT\DICT\obj\Debug\net6.0\DICT.csproj.AssemblyReference.cache
+C:\Королевские угодья\УЙДИ\Сдать c#\DICT\DICT\obj\Debug\net6.0\DICT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Королевские угодья\УЙДИ\Сдать c#\DICT\DICT\obj\Debug\net6.0\DICT.AssemblyInfoInputs.cache
+C:\Королевские угодья\УЙДИ\Сдать c#\DICT\DICT\obj\Debug\net6.0\DICT.AssemblyInfo.cs
+C:\Королевские угодья\УЙДИ\Сдать c#\DICT\DICT\obj\Debug\net6.0\DICT.csproj.CoreCompileInputs.cache
+C:\Королевские угодья\УЙДИ\Сдать c#\DICT\DICT\obj\Debug\net6.0\DICT.dll
+C:\Королевские угодья\УЙДИ\Сдать c#\DICT\DICT\obj\Debug\net6.0\refint\DICT.dll
+C:\Королевские угодья\УЙДИ\Сдать c#\DICT\DICT\obj\Debug\net6.0\DICT.pdb
+C:\Королевские угодья\УЙДИ\Сдать c#\DICT\DICT\obj\Debug\net6.0\DICT.genruntimeconfig.cache
+C:\Королевские угодья\УЙДИ\Сдать c#\DICT\DICT\obj\Debug\net6.0\ref\DICT.dll
