@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XO5", "XO5\XO5.csproj", "{310DD38A-307C-4BF9-A2E7-43F0BA2DA95E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{310DD38A-307C-4BF9-A2E7-43F0BA2DA95E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310DD38A-307C-4BF9-A2E7-43F0BA2DA95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310DD38A-307C-4BF9-A2E7-43F0BA2DA95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310DD38A-307C-4BF9-A2E7-43F0BA2DA95E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C72C516-690D-4ED1-94B8-FCF79130CF53}
+	EndGlobalSection
+EndGlobal
